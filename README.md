@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `hvac-controller_safe.os` — the correct design.
-- `hvac-controller_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `hvac-controller_safe.wave` — the correct design.
+- `hvac-controller_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
